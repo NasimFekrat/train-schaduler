@@ -1,0 +1,34 @@
+/*
+colors:
+white: #bdbdbd
+red: #f15454
+black: #232323
+*/
+body{
+    background-image: url("../images/station.jpg"); /* The image used */
+    background-color: #bdbdbd; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    color: #232323; /*font color*/
+}
+.brandHeading{
+    background-color: #232323;
+    opacity: 0.85;
+    font-family: 'Playfair Display', serif; /*font family*/
+    color: #bdbdbd;
+}
+#imgBrand{
+    width: 52px;
+    height: 52px;
+}
+.tableContainer{
+    background-color: #bdbdbd;
+    font-family: 'Playfair Display', serif; /*font family*/
+    opacity: 0.85;
+}
+.heading{
+    background-color: #232323;
+    opacity: 0.85;
+    color: #bdbdbd;
+}
