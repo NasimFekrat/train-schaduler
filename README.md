@@ -19,3 +19,7 @@ In this application, you'll find a train schedule that incorporates Firebase to 
     * Frequency -- in minutes
   
   * Users from many different machines are able to view same train times.
+  
+  ### URL
+  * You can find the application in following URL:
+    * https://nasimfekrat.github.io/train-schaduler/
